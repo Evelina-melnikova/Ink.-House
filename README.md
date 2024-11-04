@@ -1,5 +1,6 @@
 # Ink.-House
 
+Тренировочный проект с адаптивной версткой. С приминением CSS, HTML, JS 
 ____
 Ссылка на GH Pages: https://evelina-melnikova.github.io/Ink.-House .
 
